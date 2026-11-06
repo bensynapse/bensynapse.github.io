@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bensynapse.github.io/jsonrpcserver/sitemap.xml
+Sitemap: https://bensynapse.github.io/jsonrpcclient/sitemap.xml
